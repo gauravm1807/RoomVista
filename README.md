@@ -22,7 +22,7 @@ This project is organized into two Angular modules:
 Each module features its own dedicated routing for an intuitive and seamless user experience.  
 
 ## **💻 Tech Stack**  
-- **Backend:** Spring Boot 3, Spring Security 6  
-- **Frontend:** Angular 16, Ng Zorro UI  
+- **Backend:** Spring Boot, Spring Security  
+- **Frontend:** Angular 18, Ng Zorro UI  
 - **Database:** MySQL  
 - **Tools & Technologies:** Java, HTML, CSS, TypeScript  
