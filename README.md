@@ -1,4 +1,4 @@
-# **Hotel Management System**  
+# **RoomVista**  
 *Experience the seamless integration of modern technologies in this full-stack Hotel Management System, built with **Spring Boot 3**, **Spring Security 6**, **Angular 16**, **Ng Zorro UI**, and **MySQL**. This project showcases a robust and user-friendly platform for efficient hotel and room management.*  
 
 ## **🌟 Key Features**  
